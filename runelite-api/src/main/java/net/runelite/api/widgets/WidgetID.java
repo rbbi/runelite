@@ -88,6 +88,10 @@ public class WidgetID
 	public static final int QUEST_COMPLETED_GROUP_ID = 277;
 	public static final int CLUE_SCROLL_REWARD_GROUP_ID = 73;
 	public static final int BARROWS_REWARD_GROUP_ID = 155;
+	public static final int DUEL_SCREEN_ONE_GROUP_ID = 482;
+	public static final int DUEL_SCREEN_TWO_GROUP_ID = 481;
+	public static final int DUEL_SCREEN_THREE_GROUP_ID = 476;
+	public static final int DUEL_SCREEN_RESULT_GROUP_ID = 372;
 	public static final int RAIDS_GROUP_ID = 513;
 	public static final int TOB_PARTY_GROUP_ID = 28;
 	public static final int MOTHERLODE_MINE_GROUP_ID = 382;
